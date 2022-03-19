@@ -1,1 +1,4 @@
 moon is non luminous object 
+
+it means moon has not their own light it is light of sun and due to which 
+we know that light is  moon.
